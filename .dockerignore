@@ -1,0 +1,16 @@
+# Environment
+*.env
+
+# Dependencies
+node_modules
+dist.do
+
+# Versioning
+.dockerignore
+.git
+.gitignore
+
+# Misc
+README.md
+.eslintrc.js
+.prettierrc
